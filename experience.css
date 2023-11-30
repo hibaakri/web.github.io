@@ -1,0 +1,48 @@
+table {
+    width: 100%; 
+    text-align: center; 
+    background-color: beige;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: rgb(91, 31, 51);
+    text-decoration: solid;
+}
+td {
+    padding: 10px; 
+}
+section{
+    font-family: 'Trebuchet MS';
+    background-color: white;
+    border-color: pink;
+    color: rgb(55, 17, 17);
+    border-width: 1px;
+    border-style: solid;
+    margin: 5px;
+    padding: 8px;
+}
+article{
+    font-family: 'Times New Roman';
+    background-color: seashell;
+    border-color: pink;
+    color: rgb(61, 49, 49);
+    border-width: 1px;
+    border-style: solid;
+    margin: 5px;
+    padding: 8px;
+}
+.test1{
+    background-color:pink;
+    color: white;
+}
+#ing{
+    background-color: pink;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+article{
+    text-align: center;
+}
